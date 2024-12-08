@@ -1,4 +1,4 @@
-### *Patient Clinic Management System 
+### Patient Clinic Management System 
 A web-based application designed to streamline the process of registering patients, managing their data, and tracking their clinic visits. This project aims to provide an intuitive interface for healthcare professionals to efficiently manage patient records and clinic information.
 
 #### **About This Project**  
